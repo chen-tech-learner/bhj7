@@ -1,0 +1,24 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh/main/clh.m3u ",
+      "name": "clh直播线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh/main/clh1.m3u ,
+      "name": "clh1直播线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh/main/clh2.m3u ",
+      "name": "clh2直播线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd/main/yer.m3u,
+      "name": "yer直播线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh4/main/cdxdy.m3u",
+      "name": "clh4直播线路"
+    }
+  ]
+}
